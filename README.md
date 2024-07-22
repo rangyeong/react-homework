@@ -1,8 +1,7 @@
 # 과제1. 디자인 핸드오프 구현
 
 ## 구현 결과
-
-[구현 결과](./images/result01.png)
+<img width="488" alt="스크린샷 2024-07-23 오전 12 39 53" src="https://github.com/user-attachments/assets/eb726b0d-89a5-486a-9d78-a4e765fd95c5">
 
 ## 과제 수행 내용
 
