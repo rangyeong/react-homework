@@ -1,0 +1,39 @@
+/* 리셋 */
+body {
+  padding: 0;
+  margin: 0;
+}
+li {
+  list-style: none;
+}
+/* 스타일링 */
+body {
+  background-color: #1f1f1f;
+}
+.list {
+  display: flex;
+  flex-flow: column nowrap;
+  width: 344px;
+  gap: 4px;
+}
+.item {
+  display: flex;
+  min-width: 220px;
+  max-width: 640px;
+  padding: 12px;
+  align-items: center;
+  gap: 20px;
+  background-color: black;
+}
+.item img {
+  width: 64px;
+  height: 64px;
+}
+p {
+  color: #fff;
+  font-family: Pretendard;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120%;
+}
